@@ -1,0 +1,1 @@
+Titanic Survival Prediction using Python + Sk-Learn package. The objective of the project is to use a comprenhensive set of binary classification methods and find the better results for the survival of the passengers of the Titanic. Clustering methods were also used to find similarity amongst certain groups and features.
