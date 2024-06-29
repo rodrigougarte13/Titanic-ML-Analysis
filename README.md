@@ -1,3 +1,11 @@
-Titanic Survival Prediction using Python + Sk-Learn package. The objective of the project is to use a comprenhensive set of binary classification methods to find the better results for the survival of the passengers of the Titanic. Clustering methods were also used to find similarity amongst certain groups and features. 
-The most interesting find in this experiment was that Neural Networks, despite their fame, are not always the best option in classification tasks. It is different from problem to problem, there is no better model in general; but today, the winner was the Random Forest Model, as it gave us the better results over all the other tested models.
+# Titanic-ML-Analysis
+
+This project focuses on predicting the survival of Titanic passengers using Python and the scikit-learn package. The objective was to explore a variety of binary classification methods to determine the most effective model for predicting survival. Additionally, clustering techniques were applied to identify similarities among passenger groups and features.
+
+A notable discovery from this experiment was the variability in model performance across different classification methods. Despite the popularity of Neural Networks, it was found that their performance did not consistently outshine other models for this specific task. Instead, the Random Forest model emerged as the top performer, delivering superior results compared to all other models tested.
+
 Feel free to suggest other models or any change in paramters!
+
+To set up the environment, install these libraries using pip:
+```python
+pip install pandas scikit-learn
